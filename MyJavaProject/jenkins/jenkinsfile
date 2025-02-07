@@ -1,3 +1,0 @@
-@Library('startup-library') _ //shared librray name
-
-mb_init_pipeline() // call the library groovy method
