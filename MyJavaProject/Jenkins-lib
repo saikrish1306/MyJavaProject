@@ -1,0 +1,3 @@
+@Library('jenkins-library') _ //shared librray name
+
+Piplinescript() // call the library groovy method
